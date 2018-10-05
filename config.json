@@ -24,6 +24,20 @@
                 ],
                 "domain": "photos.testing1.com"
             }
+        },
+        "hub": {
+            "sharing": {
+                "enabled": true,
+                "networks": [
+                    "facebook",
+                    "twitter",
+                    "pinterest",
+                    "google-plus",
+                    "linkedin",
+                    "email"
+                ],
+                "domain": "photos.testing1.com"
+            }
         }
     }
 }
