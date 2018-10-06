@@ -10,6 +10,34 @@
         "loginId": "1759121",
         "subfolder": "",
         "firstpartycookies": true,
-        "cookiedomain": "testing1.com"
+        "cookiedomain": "testing1.com",
+        "player": {
+            "sharing": {
+                "enabled": true,
+                "networks": [
+                    "facebook",
+                    "twitter",
+                    "pinterest",
+                    "google-plus",
+                    "linkedin",
+                    "email"
+                ],
+                "domain": "photos.testing1.com"
+            }
+        },
+        "hub": {
+            "sharing": {
+                "enabled": true,
+                "networks": [
+                    "facebook",
+                    "twitter",
+                    "pinterest",
+                    "google-plus",
+                    "linkedin",
+                    "email"
+                ],
+                "domain": "photos.testing1.com"
+            }
+        }
     }
 }
